@@ -1,0 +1,18 @@
+body {
+  margin: 0 auto;
+  font-family: "Helvetica", "Arial", sans-serif;
+  margin-top: 20px;
+}
+.navbar-brand {
+  padding: 0;
+}
+.explore hr{
+	width: 100px;
+	height: 5px;
+	background-color: red;
+	border: none;
+}
+.explore h1{
+	padding-top: 50px;
+	font-weight: bold;
+}
